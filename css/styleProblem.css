@@ -253,6 +253,8 @@ a {
   font-size: 2.5em;
 }
 .link-one {
+    font-family: "Bebas Neue", serif;
+    font-size: 2.5em;
     border-bottom: none;
     color: #111;
     transition: color 1s cubic-bezier(0.32, 0, 0.67, 0);
@@ -504,7 +506,7 @@ a {
     display: flex;
     position: fixed;
     width: 100%;
-    background-color: #271c1c;
+    background-color: #111;
     color: #fff;
     bottom: 0;
     z-index: 100;
