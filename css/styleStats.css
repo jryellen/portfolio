@@ -510,7 +510,7 @@ a{
       top:10vh;
       position: sticky;
     }
-    @media only screen and (max-width: 750px) {
+    @media only screen and (max-width: 600px) {
         .par h1{
           font-size: 60px;
         }
@@ -529,5 +529,14 @@ a{
           }
           .link-four{
             font-size: 20px;
+          }
+          .space{
+            overflow-x:hidden;
+          }
+          #forrest{
+            top:72vh;
+          }
+          #mountain{
+            top: 36vh;
           }
         }
