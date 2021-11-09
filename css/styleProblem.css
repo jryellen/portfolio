@@ -54,6 +54,7 @@
     align-self: center;
     text-align: center;
     margin-right: 5px;
+    width: 100%;
   }
   .bullets img{
     width: 300px;
@@ -528,7 +529,7 @@ a {
     z-index: 100;
   }
   @media only screen and (max-width: 750px) {
-    .par h1{
+    .par {
       font-size: 60px;
     }
     .par p{
