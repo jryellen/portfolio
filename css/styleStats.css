@@ -516,6 +516,9 @@ header{
       position: sticky;
     }
     @media only screen and (max-width: 600px) {
+      #earth{
+        top: 20vh;
+      }
         .par h1{
           font-size: 60px;
         }
@@ -544,11 +547,11 @@ header{
           }
           #Fact2{
             position: absolute;
-            top: 120vh;
+            top: 150vh;
           }
           #Fact3{
             position: absolute;
-            top: 220vh;
+            top: 260vh;
           }
           #forrest{
             top:75%;
