@@ -491,6 +491,7 @@ header{
         background-image: linear-gradient(#271c1c, rgb(132, 174, 223))
     }
     .sky{
+        overflow:cut;
         top: 100vh;
         width: 100%;
         z-index:10;
@@ -567,5 +568,7 @@ header{
           #tree{
             top:33%
           }
-
+           .sky h1{
+            width: 75%
+          }
         }
