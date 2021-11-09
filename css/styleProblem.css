@@ -550,5 +550,6 @@ a {
     }
       .bullets h2{
           font-size: 36px;
+          width: 75%;
       }
   }
