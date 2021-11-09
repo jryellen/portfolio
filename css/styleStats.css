@@ -166,6 +166,10 @@ a{
   text-decoration: none;
   transition: color 1s cubic-bezier(0.32, 0, 0.67, 0);
 }
+.flip-card:active .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
 
 .link-two:hover {
   color: #111;
