@@ -47,7 +47,7 @@
     grid-column-end: 3;
     margin: auto;
     line-height: 1.2;
-    overflow: cut;
+    overflow: clip;
   }
   .bullets h2{
     font-size: 50px;
